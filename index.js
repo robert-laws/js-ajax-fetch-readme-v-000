@@ -1,5 +1,5 @@
 const app = "I don't do much.";
-const token = '8bf7325cfe1b7abe80033a338c366448ea295ca3';
+const token = '';
 
 fetch('https://api.github.com/user/repos', {
   headers: {
